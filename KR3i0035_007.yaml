@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3i0035/krp/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百菊集譜補遺序前編始成愚乃標之為百菊集譜因同里判簿兆偉伯見之乃裒以佳名曰菊史續又見古人江奎詩有他年我若修花史之句髙疏寮有竹史之作但鑄才疏識淺所愧不足聨芳於前賢乃者物色府察盧舜舉諱選録示黃華傳近又䝉同志陸景昭假及蘜先生傳今故併行校正列於補遺卷端戲表此編濫有稱史之名耳峕淳祐庚戌嵗季春吉旦愚齊史鑄顏甫識
+  hash: sha256:ef4b073a5e253861b1919501c35f868045c814b1aa0f6a96c3886ab52c198a36
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3i0035_WYG_007-1a, image: WYG0845/WYG0845-0107c.png}
+metadata:
+  title: 百菊集譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:18:25.553342'
+  juan_title: 補遺序
+  source:
+    repository: kanripo
+    path: KR3i0035/KR3i0035_007.txt
+hash: sha256:6f0cf3c3f7a308af342872ca9fb73a4a3892abed1820ed134400174b560adc7c

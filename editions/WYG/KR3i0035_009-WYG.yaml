@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3i0035/WYG/v1/juan/9
+seq: 9
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3i0035_WYG_009-1a, image: WYG0845/WYG0845-0119c.png}
+body:
+  text: 百菊集譜補遺目録黄華傳邢良孠撰蘜先生傳馬揖撰雜識辨疑詩賦晚香堂題詠續集句詩新詞正誤
+  hash: sha256:fa761148d12c1487ea20533a54dc23eb87017f0df009c8093e62e143d746d16c
+metadata:
+  title: 百菊集譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:18:25.553342'
+  juan_title: 補遺目録
+  source:
+    repository: kanripo
+    path: KR3i0035/KR3i0035_009.txt
+hash: sha256:abc17eb8f1c2e987d4860cbb54d0ca36756de015d11c0c3ece359078875a85d0
