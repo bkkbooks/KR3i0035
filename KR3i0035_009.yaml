@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3i0035_WYG_009-1a, image: WYG0845/WYG0845-0119c.png}
 body:
-  text: 百菊集譜補遺目録黃華傳邢良孠撰蘜先生傳馬揖撰雜識辨疑詩賦晚香堂題詠續集句詩新詞正誤
-  hash: sha256:04eab087d1cfcfa50d7baa9cb6c75b10ce8aaff6686015d17032a91a47f45635
+  text: 百菊集譜補遺目録黄華傳邢良孠撰蘜先生傳馬揖撰雜識辨疑詩賦晚香堂題詠續集句詩新詞正誤
+  hash: sha256:fa761148d12c1487ea20533a54dc23eb87017f0df009c8093e62e143d746d16c
 metadata:
   title: 百菊集譜
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3i0035/KR3i0035_009.txt
-hash: sha256:8f8592b1a982408412a2738068d5e7942c135563a6eff7cf3f373f3683ecd967
+hash: sha256:736039fd68a2c7b63c5984de2c75f095e259c5963080589e9abc953576184c7e
